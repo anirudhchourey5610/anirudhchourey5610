@@ -1,17 +1,35 @@
-## Hi there 👋
-# Hi, I'm Anirudh Chourey 👋
-# Online Food Delivery Website
+<h1 align="center">Hi, I'm Anirudh Chourey 👋</h1>
 
-<p align="left">
-  <a href="https://github.com/anirudhchourey5610">
-    <img src="https://img.shields.io/badge/GitHub-anirudhchourey5610-black?logo=github" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Aspiring+Java+Full+Stack+Developer;Learning+Spring+Boot+%7C+Microservices;DSA+%7C+Backend+Development;Cloud+%26+DevOps+Fundamentals" alt="Typing SVG" />
+</p>
+
+
+<p align="center">
   <a href="https://linkedin.com/in/anirudh-chourey">
-    <img src="https://img.shields.io/badge/LinkedIn-Anirudh%20Chourey-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/anirudhchourey5610">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   </a>
   <a href="mailto:uchourey16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-uchourey16@gmail.com-red?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
+</p>
+ <p align="left">
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &size=20
+    &pause=1200
+    &color=22C55E
+    &width=900
+    &lines=Data+Structures+and+Algorithms;
+            Aspiring+Full+Stack+Developer;
+            Java+Developer;
+            Backend+Development+Enthusiast;
+            Learning+Spring+Boot+and+Microservices;
+            Exploring+Cloud+and+DevOps" 
+  alt="Typing SVG" />
 </p>
 
 A frontend web application developed as a minor academic project to simulate an online food delivery platform.  
