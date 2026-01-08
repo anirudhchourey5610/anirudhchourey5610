@@ -16,8 +16,6 @@
 </p>
 
 
-
-
  <p align="left">
   <img src="https://readme-typing-svg.demolab.com
     ?font=Fira+Code
@@ -34,8 +32,10 @@
    />
 </p>
 
-A frontend web application developed as a minor academic project to simulate an online food delivery platform.  
-The project focuses on building an interactive and user-friendly interface for browsing restaurants, managing food items, and handling basic user interactions.
+I am a B.Tech Information Technology student with a strong interest in backend and full stack development. 
+Currently learning Java Full Stack development, with hands-on practice in Data Structures & Algorithms and 
+a growing focus on Spring Boot, backend technologies, and DevOps fundamentals. 
+I enjoy building practical projects and continuously improving my problem-solving skills.
 
 
 ---
