@@ -1,4 +1,106 @@
 ## Hi there 👋
+# Hi, I'm Anirudh Chourey 👋
+
+I am an aspiring Software Developer with a strong foundation in programming and web development.  
+Currently learning **Java Full Stack Development** for building real-world projects.
+
+---
+
+## 🎓 Education
+- **B.Tech (Information Technology)**  
+  Acropolis Institute of Technology and Research, Indore  
+  *2022 – 2026* | CGPA: 6.5  
+
+- **Higher Secondary (CBSE)** – 74.8%  
+  Sophia Convent Senior Secondary School, Khandwa  
+
+- **Secondary (MP Board)** – 74.4%  
+  St. Carmel Higher Secondary School, Khandwa  
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**  
+- C, C++, Java, JavaScript  
+
+**Web Technologies**  
+- HTML, CSS, JavaScript, Bootstrap  
+
+**Frameworks & Libraries**  
+- React.js, Node.js, Express.js  
+
+**Databases**  
+- MySQL  
+
+**Core Computer Science**  
+- DSA, OOPS, DBMS, Operating Systems, Computer Networks  
+
+**Tools**  
+- Git, GitHub, VS Code  
+
+---
+
+## 📌 Projects
+
+### 🍔 Online Food Delivery Website
+- Built a responsive web application for browsing restaurants, managing carts, and viewing order history  
+- Implemented dynamic UI interactions using vanilla JavaScript  
+- Included basic user login functionality  
+
+**Tech Stack:** HTML, CSS, JavaScript  
+
+---
+
+### 🤝 Volunteer Hub
+- Developed a web portal connecting NGOs with volunteers  
+- NGOs can post events and users can register based on interests  
+- Designed event listings and user registration workflows  
+
+**Tech Stack:** HTML, CSS, JavaScript  
+
+---
+
+## 🏆 Achievements
+- ⭐ **2-Star** on GeeksforGeeks (Contest Rating: 1536)  
+- ⭐ **1-Star** on CodeChef (Contest Rating: 1054)  
+- 🔥 CodeChef 50-day streak badge  
+- 💻 Solved **75+ problems on LeetCode**  
+- 💻 Solved **200+ problems on competitive platforms**  
+
+---
+
+## 📜 Certifications
+- Udemy – SQL Course Completion Certificate  
+- AWS Academy – Cloud Architecting  
+
+---
+
+## 🚀 Training & Experience
+**AWS DevOps Training**  
+- Acropolis Institute of Technology and Research, Indore  
+- Hands-on experience with AWS DevOps tools and industry-aligned projects  
+- Duration: 45 Days  
+
+---
+
+## 🎯 Current Focus
+- Java Full Stack Development  
+- Data Structures & Algorithms  
+- Backend Development  
+- Building scalable real-world applications  
+
+---
+
+## 📫 Contact
+- 📍 Indore, Madhya Pradesh, India  
+- 📧 Email: uchourey16@gmail.com  
+- 🔗 GitHub: https://github.com/anirudhchourey5610  
+- 🔗 LinkedIn: https://linkedin.com/in/anirudh-chourey  
+
+---
+
+*Always learning, building, and improving.*
 
 <!--
 **anirudhchourey5610/anirudhchourey5610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
