@@ -1,8 +1,22 @@
 ## Hi there 👋
 # Hi, I'm Anirudh Chourey 👋
+# Online Food Delivery Website
 
-I am an aspiring Software Developer with a strong foundation in programming and web development.  
-Currently learning **Java Full Stack Development** for building real-world projects.
+<p align="left">
+  <a href="https://github.com/anirudhchourey5610">
+    <img src="https://img.shields.io/badge/GitHub-anirudhchourey5610-black?logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/anirudh-chourey">
+    <img src="https://img.shields.io/badge/LinkedIn-Anirudh%20Chourey-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:uchourey16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-uchourey16@gmail.com-red?logo=gmail" />
+  </a>
+</p>
+
+A frontend web application developed as a minor academic project to simulate an online food delivery platform.  
+The project focuses on building an interactive and user-friendly interface for browsing restaurants, managing food items, and handling basic user interactions.
+
 
 ---
 
