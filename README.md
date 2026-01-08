@@ -1,21 +1,23 @@
 <h1 align="center">Hi, I'm Anirudh Chourey 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Aspiring+Java+Full+Stack+Developer;Learning+Spring+Boot+%7C+Microservices;DSA+%7C+Backend+Development;Cloud+%26+DevOps+Fundamentals" alt="Typing SVG" />
-</p>
-
-
 <p align="center">
   <a href="https://linkedin.com/in/anirudh-chourey">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Anirudh%20Chourey-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/anirudhchourey5610">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-anirudhchourey5610-181717?logo=github&logoColor=white" />
   </a>
   <a href="mailto:uchourey16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-uchourey16@gmail.com-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=800&lines=Data+Structures+and+Algorithms;Full+Stack+Developer;Java+Full+Stack+Developer;Backend+Developer;Spring+Boot;Backend;DevOps" alt="Typing SVG" />
+</p>
+
+
+
+
  <p align="left">
   <img src="https://readme-typing-svg.demolab.com
     ?font=Fira+Code
