@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anirudh Chourey 👋</h1>
 <p align="center">
-  <a href="https://linkedin.com/in/anirudh-chourey">
+  <a href="https://www.linkedin.com/in/anirudh-chourey-294914251/">
     <img src="https://img.shields.io/badge/LinkedIn-Anirudh%20Chourey-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/anirudhchourey5610">
@@ -31,7 +31,7 @@
             Backend+Development+Enthusiast;
             Learning+Spring+Boot+and+Microservices;
             Exploring+Cloud+and+DevOps" 
-  alt="Typing SVG" />
+   />
 </p>
 
 A frontend web application developed as a minor academic project to simulate an online food delivery platform.  
