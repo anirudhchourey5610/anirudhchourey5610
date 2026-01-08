@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=800&lines=Data+Structures+and+Algorithms;Full+Stack+Developer;Java+Full+Stack+Developer;Backend+Developer;Spring+Boot;Backend;DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=800&lines=Data+Structures+and+Algorithms;Full+Stack+Developer;Java+Full+Stack+Developer;Backend+Developer;Spring+Boot;DevOps And Docker" alt="Typing SVG" />
 </p>
 
 
