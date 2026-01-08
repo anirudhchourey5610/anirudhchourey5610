@@ -86,9 +86,13 @@ Currently learning **Java Full Stack Development** for building real-world proje
 
 ## 🎯 Current Focus
 - Java Full Stack Development  
+- Spring & Spring Boot fundamentals  
+- Hibernate & JPA  
+- REST API development  
+- Docker basics  
+- Microservices architecture (learning phase)  
 - Data Structures & Algorithms  
-- Backend Development  
-- Building scalable real-world applications  
+ 
 
 ---
 
