@@ -12,8 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=800&lines=Data+Structures+and+Algorithms;Full+Stack+Developer;Java+Full+Stack+Developer;Backend+Developer;Spring+Boot;DevOps;Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=Data+Structures+and+Algorithms;Full+Stack+Developer;Java+Full+Stack+Developer;Backend+Developer;Exploring+Spring+Boot+and+Microservices;DevOps+and+Docker+Foundations" alt="Typing SVG" />
 </p>
+
 
 
  <p align="left">
