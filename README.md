@@ -44,7 +44,7 @@ I enjoy building practical projects and continuously improving my problem-solvin
 ## 🎓 Education
 - **B.Tech (Information Technology)**  
   Acropolis Institute of Technology and Research, Indore  
-  *2022 – 2026* | CGPA: 6.5  
+  *2022 – 2026* | CGPA: 6.69  
 
 - **Higher Secondary (CBSE)** – 74.8%  
   Sophia Convent Senior Secondary School, Khandwa  
